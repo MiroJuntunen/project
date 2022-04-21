@@ -1,2 +1,3 @@
 # project
-ugh
+Elias
+Miro
